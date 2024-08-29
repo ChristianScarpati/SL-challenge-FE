@@ -54,7 +54,7 @@ This project is an interactive web application based on maps, developed using **
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/ChristianScarpati/SL-challenge-FE.git
-   cd map-app
+   cd "folder name"
    ```
 
 2. **Install dependencies**:
