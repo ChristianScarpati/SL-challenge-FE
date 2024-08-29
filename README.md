@@ -64,14 +64,9 @@ This project is an interactive web application based on maps, developed using **
 
 3. **Run the application in development mode**:
    ```bash
-   npm start
+   npm run dev
    ```
-
-4. **Build the application for production**:
-   ```bash
-   npm run build
-   ```
-
+   
 ## 📊 How to Use the Application
 - **View the Map**: When the application starts, you'll see an interactive map with multiple markers.
 - **Explore Locations**: Use the sidebar to explore the available locations.
