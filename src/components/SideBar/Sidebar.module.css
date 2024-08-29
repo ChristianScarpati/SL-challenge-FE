@@ -1,0 +1,39 @@
+.toggleButton {
+    position: fixed;
+    z-index: 10;
+    border-radius: 50%;
+    transition: left 0.5s ease;
+}
+
+.sidebarContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    padding-top: var(--chakra-space-4);
+}
+
+.heading {
+    text-align: left;
+    font-size: var(--chakra-fontSizes-xl);
+}
+
+.locationList {
+    width: 100%;
+    padding-top: var(--chakra-space-2);
+    text-align: center;
+}
+
+.locationItem {
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: var(--chakra-radii-md);
+    padding-left: var(--chakra-space-1-5);
+    padding-right: var(--chakra-space-1-5);
+    margin-bottom: var(--chakra-space-1);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.locationItem:hover {
+    color: var(--chakra-colors-teal-500);
+}

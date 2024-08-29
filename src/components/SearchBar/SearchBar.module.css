@@ -1,0 +1,45 @@
+.searchBarContainer {
+    max-width: 100%;
+    border-radius: var(--chakra-radii-lg);
+    display: flex;
+    margin: 0 auto;
+    width: 70%;
+
+    /* Centering the SearchBar */
+    border: 1px solid black;
+    margin-top: var(--chakra-space-10);
+    margin-bottom: var(--chakra-space-5);
+    padding: var(--chakra-space-2) var(--chakra-space-4);
+}
+
+.searchInput {
+    flex-grow: 1;
+    border-radius: inherit;
+    padding: var(--chakra-space-2);
+}
+
+.resetButton {
+    padding-right: var(--chakra-space-4);
+    margin-left: var(--chakra-space-2);
+    border-radius: var(--chakra-radii-lg);
+    background-color: var(--chakra-colors-red-500);
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+.resetButton:hover {
+    background-color: var(--chakra-colors-red-600);
+}
+
+.searchButton {
+    margin-left: var(--chakra-space-4);
+    padding: var(--chakra-space-2) var(--chakra-space-4);
+    background-color: var(--chakra-colors-teal-500);
+    color: white;
+    border-radius: var(--chakra-radii-lg);
+    transition: background-color 0.3s ease;
+}
+
+.searchButton:hover {
+    background-color: var(--chakra-colors-teal-600);
+}

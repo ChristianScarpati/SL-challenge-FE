@@ -1,0 +1,138 @@
+[
+  {
+    "id": 4,
+    "name": "Paris",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "description": "Capital of France",
+    "link": "https://en.wikipedia.org/wiki/Paris"
+  },
+  {
+    "id": 5,
+    "name": "London",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "description": "Capital of the United Kingdom",
+    "link": "https://en.wikipedia.org/wiki/London"
+  },
+  {
+    "id": 6,
+    "name": "Madrid",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "description": "Capital of Spain",
+    "link": "https://en.wikipedia.org/wiki/Madrid"
+  },
+  {
+    "id": 7,
+    "name": "Rome",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "description": "Capital of Italy",
+    "link": "https://en.wikipedia.org/wiki/Rome"
+  },
+  {
+    "id": 8,
+    "name": "Amsterdam",
+    "lat": 52.3676,
+    "lng": 4.9041,
+    "description": "Capital of the Netherlands",
+    "link": "https://en.wikipedia.org/wiki/Amsterdam"
+  },
+  {
+    "id": 9,
+    "name": "Brussels",
+    "lat": 50.8503,
+    "lng": 4.3517,
+    "description": "Capital of Belgium",
+    "link": "https://en.wikipedia.org/wiki/Brussels"
+  },
+  {
+    "id": 10,
+    "name": "Vienna",
+    "lat": 48.2082,
+    "lng": 16.3738,
+    "description": "Capital of Austria",
+    "link": "https://en.wikipedia.org/wiki/Vienna"
+  },
+  {
+    "id": 11,
+    "name": "Prague",
+    "lat": 50.0755,
+    "lng": 14.4378,
+    "description": "Capital of the Czech Republic",
+    "link": "https://en.wikipedia.org/wiki/Prague"
+  },
+  {
+    "id": 12,
+    "name": "Warsaw",
+    "lat": 52.2297,
+    "lng": 21.0122,
+    "description": "Capital of Poland",
+    "link": "https://en.wikipedia.org/wiki/Warsaw"
+  },
+  {
+    "id": 13,
+    "name": "Lisbon",
+    "lat": 38.7223,
+    "lng": -9.1393,
+    "description": "Capital of Portugal",
+    "link": "https://en.wikipedia.org/wiki/Lisbon"
+  },
+  {
+    "id": 14,
+    "name": "Stockholm",
+    "lat": 59.3293,
+    "lng": 18.0686,
+    "description": "Capital of Sweden",
+    "link": "https://en.wikipedia.org/wiki/Stockholm"
+  },
+  {
+    "id": 15,
+    "name": "Oslo",
+    "lat": 59.9139,
+    "lng": 10.7522,
+    "description": "Capital of Norway",
+    "link": "https://en.wikipedia.org/wiki/Oslo"
+  },
+  {
+    "id": 16,
+    "name": "Copenhagen",
+    "lat": 55.6761,
+    "lng": 12.5683,
+    "description": "Capital of Denmark",
+    "link": "https://en.wikipedia.org/wiki/Copenhagen"
+  },
+  {
+    "id": 17,
+    "name": "Budapest",
+    "lat": 47.4979,
+    "lng": 19.0402,
+    "description": "Capital of Hungary",
+    "link": "https://en.wikipedia.org/wiki/Budapest"
+  },
+  {
+    "id": 18,
+    "name": "Athens",
+    "lat": 37.9838,
+    "lng": 23.7275,
+    "description": "Capital of Greece",
+    "link": "https://en.wikipedia.org/wiki/Athens"
+  },
+  {
+    "id": 19,
+    "name": "Istanbul",
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "description": "Major city in Turkey",
+    "link": "https://en.wikipedia.org/wiki/Istanbul"
+  },
+  {
+    "id": 20,
+    "name": "Dubai",
+    "lat": 25.276987,
+    "lng": 55.296249,
+    "description": "Major city in the United Arab Emirates",
+    "link": "https://en.wikipedia.org/wiki/Dubai"
+  }
+]
